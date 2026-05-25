@@ -12,7 +12,7 @@
   "author": "yashs",
   "license": "ISC",
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.61.0",
+    "@anthropic-ai/sdk": "^0.98.0",
     "@aws-sdk/client-s3": "^3.879.0",
     "@clerk/express": "^1.7.20",
     "@google/generative-ai": "^0.1.3",
