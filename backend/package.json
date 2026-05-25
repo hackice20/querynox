@@ -27,7 +27,7 @@
     "form-data": "^4.0.5",
     "formdata-node": "^6.0.3",
     "groq-sdk": "^0.3.0",
-    "mongoose": "^8.0.1",
+    "mongoose": "^9.6.2",
     "morgan": "^1.10.1",
     "multer": "^2.0.2",
     "openai": "^4.20.1",
