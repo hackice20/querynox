@@ -33,7 +33,7 @@
     "openai": "^4.20.1",
     "pdf-parse": "^2.4.5",
     "prom-client": "^15.1.3",
-    "tesseract.js": "^6.0.1",
+    "tesseract.js": "^7.0.0",
     "winston": "^3.19.0",
     "winston-loki": "^6.1.4",
     "zod": "^3.25.76"
