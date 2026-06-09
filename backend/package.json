@@ -17,7 +17,7 @@
     "@clerk/express": "^1.7.20",
     "@google/generative-ai": "^0.24.1",
     "@polar-sh/express": "^0.3.4",
-    "@polar-sh/sdk": "^0.34.10",
+    "@polar-sh/sdk": "^0.48.1",
     "axios": "^1.11.0",
     "compression": "^1.8.1",
     "cors": "^2.8.5",
